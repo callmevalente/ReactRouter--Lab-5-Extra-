@@ -1,8 +1,6 @@
-# React + Vite
+# Lab 5: https://github.com/callmevalente/React5
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## - Implemented Local Storage.
+## - Application updates the database once system is back online for the extra credit.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# React Router (Extra Credit): https://github.com/callmevalente/ReactRouter--Lab-5-Extra- (This Repository)
